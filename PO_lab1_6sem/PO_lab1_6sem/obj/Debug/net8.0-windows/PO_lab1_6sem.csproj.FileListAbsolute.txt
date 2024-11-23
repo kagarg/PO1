@@ -1,0 +1,16 @@
+C:\Users\Ivan\source\repos\PO_lab1_6sem\obj\Debug\net8.0-windows\Convertor.Form1.resources
+C:\Users\Ivan\source\repos\PO_lab1_6sem\obj\Debug\net8.0-windows\PO_lab1_6sem.csproj.GenerateResource.cache
+C:\Users\Ivan\source\repos\PO_lab1_6sem\obj\Debug\net8.0-windows\PO_lab1_6sem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\PO_lab1_6sem\obj\Debug\net8.0-windows\PO_lab1_6sem.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\PO_lab1_6sem\obj\Debug\net8.0-windows\PO_lab1_6sem.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\PO_lab1_6sem\obj\Debug\net8.0-windows\PO_lab1_6sem.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\PO_lab1_6sem\bin\Debug\net8.0-windows\PO_lab1_6sem.exe
+C:\Users\Ivan\source\repos\PO_lab1_6sem\bin\Debug\net8.0-windows\PO_lab1_6sem.deps.json
+C:\Users\Ivan\source\repos\PO_lab1_6sem\bin\Debug\net8.0-windows\PO_lab1_6sem.runtimeconfig.json
+C:\Users\Ivan\source\repos\PO_lab1_6sem\bin\Debug\net8.0-windows\PO_lab1_6sem.dll
+C:\Users\Ivan\source\repos\PO_lab1_6sem\bin\Debug\net8.0-windows\PO_lab1_6sem.pdb
+C:\Users\Ivan\source\repos\PO_lab1_6sem\obj\Debug\net8.0-windows\PO_lab1_6sem.dll
+C:\Users\Ivan\source\repos\PO_lab1_6sem\obj\Debug\net8.0-windows\refint\PO_lab1_6sem.dll
+C:\Users\Ivan\source\repos\PO_lab1_6sem\obj\Debug\net8.0-windows\PO_lab1_6sem.pdb
+C:\Users\Ivan\source\repos\PO_lab1_6sem\obj\Debug\net8.0-windows\PO_lab1_6sem.genruntimeconfig.cache
+C:\Users\Ivan\source\repos\PO_lab1_6sem\obj\Debug\net8.0-windows\ref\PO_lab1_6sem.dll

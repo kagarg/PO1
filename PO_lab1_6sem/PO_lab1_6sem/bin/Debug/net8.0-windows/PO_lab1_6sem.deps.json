@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PO_lab1_6sem/1.0.0": {
+        "runtime": {
+          "PO_lab1_6sem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PO_lab1_6sem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
